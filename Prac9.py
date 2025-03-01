@@ -1,1 +1,1 @@
-print("All The best Sanskruti And Purva")
+print("All The best")
